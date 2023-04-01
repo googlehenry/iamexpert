@@ -42,4 +42,15 @@
     11. in the end
     12. we'll rock you
     13. zombie
+    14. YMCA
     
+    70s
+    1. river of babylon
+    2. sunny
+    3. gimme
+    4. one way ticket
+    5. moskau
+    6. cha cha cha
+
+    1. hall of fame
+    2. Tuesday
