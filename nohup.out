@@ -1,0 +1,14 @@
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-04-01 16:29:57,889 [   5105]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 53:DefaultDispatcher-worker-37 | RdCoroutineHost overridden 
+2023-04-01 16:29:59,178 [   6394]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  github.copilotToolWindow) or icon UrlResolver{ownerClass=com.github.copilot.CopilotIcons, classLoader=PluginClassLoader(plugin=PluginDescriptor(name=GitHub Copilot, id=com.github.copilot, descriptorPath=plugin.xml, path=~\AppData\Roaming\JetBrains\IdeaIC2022.3\plugins\github-copilot-intellij, version=1.2.4.2459, package=null, isBundled=false), packagePrefix=null, instanceId=20, state=active), overriddenPath='icons/copilot_toolwindow.svg', url=file:/unresolved, useCacheOnLoad=true}
+2023-04-01 16:30:05,247 [  12463]   WARN - #c.i.u.x.Binding - no accessors for org.jetbrains.idea.perforce.perforce.ConnectionId
+2023-04-01 16:30:05,525 [  12741]   WARN - #c.i.e.p.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+C:\Users\yanca\AppData\Roaming\JetBrains\IdeaIC2022.3\plugins\github-copilot-intellij\copilot-agent\bin\copilot-agent-win.exe
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-04-01 16:33:32,794 [   3827]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 34:DefaultDispatcher-worker-21 | RdCoroutineHost overridden 
+2023-04-01 16:33:33,924 [   4957]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  github.copilotToolWindow) or icon UrlResolver{ownerClass=com.github.copilot.CopilotIcons, classLoader=PluginClassLoader(plugin=PluginDescriptor(name=GitHub Copilot, id=com.github.copilot, descriptorPath=plugin.xml, path=~\AppData\Roaming\JetBrains\IdeaIC2022.3\plugins\github-copilot-intellij, version=1.2.4.2459, package=null, isBundled=false), packagePrefix=null, instanceId=20, state=active), overriddenPath='icons/copilot_toolwindow.svg', url=file:/unresolved, useCacheOnLoad=true}
+2023-04-01 16:33:38,053 [   9086]   WARN - #c.i.u.x.Binding - no accessors for org.jetbrains.idea.perforce.perforce.ConnectionId
+2023-04-01 16:33:38,193 [   9226]   WARN - #c.i.e.p.OSProcessHandler - Cannot kill process tree. Trying to destroy process using Java API. Cmdline:
+C:\Users\yanca\AppData\Roaming\JetBrains\IdeaIC2022.3\plugins\github-copilot-intellij\copilot-agent\bin\copilot-agent-win.exe
